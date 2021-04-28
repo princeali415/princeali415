@@ -17,6 +17,21 @@ I am a full-stack software engineer with real world business experience. After 3
 
 ### 🛠 &nbsp;Tech Stack
 
-## Front-End 
-<ul>
-  <li></li>
+### &nbsp;Front-End 
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SASS</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Redux</li>
+  <li>AWS</li>
+ </ol>
+ 
+ ### &nbsp;Back-End 
+<ol>
+  <li>Java</li>
+  <li>Spring BOOT</li>
+  <li>PostgreSQL</li>
+  <li>Heroku</li>
+ </ol>
