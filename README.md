@@ -16,9 +16,10 @@ I am a full-stack software engineer with real world business experience. After 3
 - ⚡ Fun fact: ... I've lived in Enlgand, Spain, Singapore, San Diego, and San Francisco 🌎
 
 ### 🛠 &nbsp;Tech Stack
-
+<div>
+  <div>
 ### &nbsp;Front-End 
-<ol>
+<ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>SASS</li>
@@ -26,12 +27,15 @@ I am a full-stack software engineer with real world business experience. After 3
   <li>React.js</li>
   <li>Redux</li>
   <li>AWS</li>
- </ol>
- 
+</ul>
+   </div>
+   <div>
  ### &nbsp;Back-End 
-<ol>
+<ul>
   <li>Java</li>
   <li>Spring BOOT</li>
   <li>PostgreSQL</li>
   <li>Heroku</li>
- </ol>
+</ul>
+     </div>
+</div>
