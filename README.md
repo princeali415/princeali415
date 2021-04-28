@@ -26,7 +26,7 @@ I am a full-stack software engineer with real world business experience. After 3
   <li>Redux</li>
   <li>AWS</li>
 </ul>
- ### &nbsp;Back-End 
+### &nbsp;Back-End 
 <ul>
   <li>Java</li>
   <li>Spring BOOT</li>
