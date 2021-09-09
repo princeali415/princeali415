@@ -8,10 +8,9 @@ I am a full-stack software engineer with real world business experience. After 3
 <a href="https://hussain-ali-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Personal%20Portfolio-green?style=flat-square&logo=googlechrome"/></a>
 
 - 🔭 I’m currently working on ... Fellowshipy!
-- 🌱 I’m currently learning ... Haskell and Blockchain development with Cardano!
+- 🌱 I’m currently learning ... Solidity and Blockchain development on the Ethereum Blockchain!
 - 👯 I’m looking to collaborate on ... any fun projects you are working on!
 - 🤔 I’m looking for help with ... finding new books to read!
 - 💬 Ask me about ... the tech industry, investing, the economy, and software developement!
 - 📫 How to reach me: ... message me on LinkedIn!
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I've lived in England, Spain, Singapore, San Diego, and San Francisco 🌎
